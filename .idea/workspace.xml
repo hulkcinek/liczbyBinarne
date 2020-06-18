@@ -10,9 +10,11 @@
       <change beforePath="$PROJECT_DIR$/../Literki/out/production/Literki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Literki/out/production/Literki/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Literki/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Literki/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ONP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ONP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONP/out/production/ONP/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ONP/out/production/ONP/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ONP/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ONP/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/liczbyBinarne/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/liczbyBinarne/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zamiana.png" beforeDir="false" afterPath="$PROJECT_DIR$/zamiana.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rysowanie/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rysowanie/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rysowanie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rysowanie/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rysowanie/out/production/rysowanie/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rysowanie/out/production/rysowanie/Main.class" afterDir="false" />
@@ -29,22 +31,26 @@
     <session id="-733692318">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3172" />
+          <entry key="JAVA" value="4040" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -54,14 +60,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="119" column="43" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+            <state relative-caret-position="413">
+              <caret line="175" column="51" selection-start-line="175" selection-start-column="51" selection-end-line="175" selection-end-column="51" />
               <folding>
                 <element signature="method#zamiana10na2iteracyjnie#0;class#Main#0" />
                 <element signature="method#zamiana2na10iteracyjnie#0;class#Main#0" />
                 <element signature="method#zamiana10na2rekurencyjnie#0;class#Main#0" />
                 <element signature="method#zamiana2na10rekurencyjnie#0;class#Main#0" />
                 <element signature="method#zamiana10na8#0;class#Main#0" />
+                <element signature="method#zamiana8na10#0;class#Main#0" />
+                <element signature="method#zamiana10na16#0;class#Main#0" />
+                <element signature="method#zamiana16na10#0;class#Main#0" />
+                <element signature="method#zamianaDowolna#0;class#Main#0" />
+                <element signature="method#zamianaDowolnaNa10#0;class#Main#0" />
+                <element signature="method#zamiana10NaDowolna#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -75,6 +87,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../ONP/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -90,7 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,11 +126,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589056179637" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592476836954" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ONP" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +179,7 @@
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11009539" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.056836247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,16 +218,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../ONP/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="119" column="43" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+        <state relative-caret-position="413">
+          <caret line="175" column="51" selection-start-line="175" selection-start-column="51" selection-end-line="175" selection-end-column="51" />
           <folding>
             <element signature="method#zamiana10na2iteracyjnie#0;class#Main#0" />
             <element signature="method#zamiana2na10iteracyjnie#0;class#Main#0" />
             <element signature="method#zamiana10na2rekurencyjnie#0;class#Main#0" />
             <element signature="method#zamiana2na10rekurencyjnie#0;class#Main#0" />
             <element signature="method#zamiana10na8#0;class#Main#0" />
+            <element signature="method#zamiana8na10#0;class#Main#0" />
+            <element signature="method#zamiana10na16#0;class#Main#0" />
+            <element signature="method#zamiana16na10#0;class#Main#0" />
+            <element signature="method#zamianaDowolna#0;class#Main#0" />
+            <element signature="method#zamianaDowolnaNa10#0;class#Main#0" />
+            <element signature="method#zamiana10NaDowolna#0;class#Main#0" />
           </folding>
         </state>
       </provider>
